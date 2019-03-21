@@ -1,0 +1,1 @@
+Python - 2.17.3Spark version Used - spark-2.2.0Task 1:Implementing PCYto run the code : use->python Deepti_R_S_PCY.py baskets.txt 11 29 150 2500 output-dirTask 2:To implement SON algorithm using Sparkto run -> bin/spark-submit Deepti_R_S_SON.py baskets.txt 0.2 output.txt

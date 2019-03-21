@@ -1,0 +1,475 @@
+109th anniversary	2.0 1
+10nth anniversary dinner	8.0 1
+10th anniversary dinner	4.0 1
+112th anniversary	3.0 1
+115nth annual dinner	8.0 1
+116th anniversary	12.0 1
+120 annual banquet	6.0 1
+120th anniversary dinner	3.0 1
+124th annual meeting luncheon	4.0 1
+128th anniversary dinner	2.0 1
+12th annual dinner	16.0 1
+139th anniversary	4.0 1
+13th annual dinner	8.0 1
+140th anniversary	4.0 1
+14nth annual dinner	4.0 1
+14th annual dinner	4.0 1
+157th anniversary of birthday of washington	2.0 1
+15nth annual dinner	4.0 1
+15nth burns anniversary	8.0 1
+15th annual dinner	4.0 1
+16th annual dinner	4.0 1
+173rd regular meeting	6.0 1
+17nth annual dinner	4.0 1
+17th annual reunion and dinner	4.0 1
+18th annual dinner	12.0 1
+1900s sexennial	2.0 1
+20th anniversary dinner	4.0 1
+23rd annual dinner	4.0 1
+23rd annual meeting	4.0 1
+25th anniversary	4.0 1
+25th annual meeting banquet	4.0 1
+28 anniversary dinner	8.0 1
+2nd annual dinner	4.0 2
+2nd annual dinner commemorating the first centennial of rockland county	14.0 1
+2nd annual initiation banquet	8.0 1
+31st anniversary	4.0 1
+37th annual dinner	2.0 1
+3rd annual banquet	2.0 1
+4th annual dinner	3.0 2
+6th annual banquet	8.0 2
+74th bithday of u s grant	20.0 1
+75th anniversary dinner	6.0 1
+78th anniversary of lincoln s birthday	3.0 1
+93rd regular meeting	8.0 1
+96s decennial	2.0 1
+9nth danzinger martini fest	4.0 1
+9th annual dinner	34.0 1
+a farewell dinner to dr stephen s wise	4.0 1
+a la carte	4.0 1
+a la carte dinner menu	4.0 1
+a la carte menu	3.0 7
+abendessen	2.0 1
+afternoon tea	6.0 2
+airlines terminal dinner	9.0 1
+all american banquet in honor of edwin c hall	8.0 1
+alumni reunion	2.0 1
+anniversary	4.0 1
+anniversary celebration	4.0 1
+anniversary dinner	2.0 3
+anniversary dinner of the presentation of loving cup	4.0 1
+anniversary of george washington s birthday	2.0 1
+annual banquet	6.0 4
+annual banquet tendered to their representatives	4.0 1
+annual dinner	5.0 29
+annual dinner in honor of bithday of benjamin franklin	4.0 1
+annual dinner to employees	4.0 1
+annual meeting	4.0 1
+annual mess dinner	2.0 1
+annual washington s birthday dinner	4.0 1
+arrival of the raleigh from manila	2.0 1
+au revoir to mr frank d lalanne	8.0 1
+bachelor party dinner	4.0 1
+ball	1.0 3
+banchetto	2.0 1
+banquet	4.0 12
+banquet and meeting	4.0 1
+banquet aux membres du jury a l occasion des concours internationaux d horticulture	2.0 1
+banquet honoring ight rev w n mcvickar	2.0 1
+banquet in celebration of washington s first inauguration	2.0 1
+banquet in commemoration of the 200th anniversary of the birth of dr benjamin franklin	12.0 1
+banquet in honor of congressmen from greater new york	4.0 1
+banquet in honor of count ferdinand de lessups	4.0 1
+banquet in honor of ferdinand w peck	12.0 1
+banquet in honor of k ishii	4.0 1
+banquet in honor of kaiser wilhelm ii	4.0 1
+banquet in honor of rear admiral winfield scott schlet and commander washburn maynard	4.0 1
+banquet in honor of s e il prof luigi rava minister of instruction	2.0 1
+banquet in honor of the third annual convention of above	2.0 2
+banquet on completion of northern pacific railroad	2.0 1
+banquet to captain w skjodt on the occasion of his 100th trip as commander of the steamship island	4.0 1
+banquet to commemorate the evacution of ny by the british	4.0 1
+banquet to dlegates of the national municipal league	4.0 1
+banquet to the earl of aberdeen	4.0 1
+banquet to the officers of the cruiser baltimore	4.0 1
+banquet to the typothetoe of america	12.0 1
+beverage list	3.0 1
+beverages	3.0 1
+bill of fare	2.0 12
+bill of fare breakfast supper	4.0 1
+birthday dinner to mr all meritt	2.0 1
+board of directors dinner	8.0 1
+bon voyage to mr james pollock	4.0 1
+breakdast	2.0 1
+breakfast	2.0 613
+breakfast and supper	4.0 1
+breakfast by usms st louis	1.0 1
+breakfast dinner menu	4.0 1
+breakfast for guests of minnesota iron company	2.0 1
+breakfast held by nordeutscher lloyd bremen at on board the ss george washington	1.0 3
+breakfast menu	2.0 4
+breakfast on funeral train of president mckinley	2.0 2
+breakfast pullman dining car service	2.0 1
+breakfast second cabin	2.0 4
+breakfast tour of the pres to chicago the northwest	2.0 1
+breakfast ˆ la carte	2.0 1
+brealfast	2.0 2
+brunch	3.0 5
+buffet service breakfast	2.0 1
+buffet train lunch	2.0 1
+cafe half portion breakfast	2.0 1
+cafe service meals	2.0 2
+carte du jour	2.0 6
+carte du jour dejeuner	2.0 3
+carte du jour diner	2.0 3
+celebration banquet	33.0 1
+champagnes list	1.0 1
+chef s tasting menu	5.0 1
+christmas dinner	3.0 11
+christmas dinnr	8.0 1
+closing reception	2.0 1
+club dinner	2.0 1
+cocktails	14.0 1
+coming of age banquet	8.0 1
+commencement dinner	2.0 1
+complete menu	4.0 1
+complimentary dinner to gen felix agnus of baltimore	4.0 1
+complimentary dinner to the officers and cadets of west point military academy	2.0 1
+complimentary luncheon	4.0 2
+convention	4.0 1
+coronation ball	2.0 1
+coronation dinner	4.0 1
+coronation supper for 800	2.0 1
+daily	4.0 1
+daily bill of fare	3.0 5
+daily breakfast	2.0 1
+daily dinner	2.0 3
+daily dinner menu	3.0 2
+daily lunch	2.0 4
+daily menu	3.0 81
+daily menu dinner	2.0 1
+daily menu lunch	2.0 1
+daily specials	2.0 1
+dedication	24.0 1
+dejeuner	2.0 2
+dessert	3.0 5
+dewey day dinner	4.0 1
+diner	3.0 5
+diner d adieu	2.0 1
+diner de la literature fin de siecle	2.0 1
+diner dinner	2.0 2
+diner gala	2.0 1
+dinhner	2.0 1
+dining car service	4.0 1
+dining car service dinner	4.0 2
+dining car service meals	2.0 5
+dining room menu	2.0 1
+dinne	4.0 1
+dinner	2.0 999
+dinner a la carte	2.0 1
+dinner and breakfast	4.0 1
+dinner and wine and birthday	3.0 1
+dinner at the sudan club	1.0 1
+dinner by mr and mrs hugo reisinger of nyc	2.0 1
+dinner diner	2.0 1
+dinner for bartolomeo bertini and margherita andreini bertini	4.0 1
+dinner for bond committee and officers of the colonial club	4.0 1
+dinner for committee for preliminaries for the world s fair	4.0 1
+dinner for guests of minnesota iron company	2.0 1
+dinner for hon anthony howells	2.0 1
+dinner for hon warner miller pres of nicaragua canal construction co	8.0 1
+dinner for joseph august	2.0 1
+dinner for king and queen of portugal	5.0 1
+dinner from 6 to 8	1.0 1
+dinner given at the seventeenth annual convention of the ohio bankers association	4.0 1
+dinner given by george c boldt to his employees	2.0 1
+dinner given in honour of judge henry steinert	8.0 1
+dinner given to commodore harry b gilpin	8.0 1
+dinner given to men of ny central hudson rr	4.0 1
+dinner given to themselves	4.0 1
+dinner in aid of the reform of the tariff	1.0 1
+dinner in honor o general nelson a miles	2.0 1
+dinner in honor of don ramon pina y millet	10.0 1
+dinner in honor of hakan johansen	4.0 1
+dinner in honor of hon j i clarke hare	12.0 1
+dinner in honor of john a mccall	8.0 1
+dinner in honor of mr frank pollock	2.0 1
+dinner in honor of mr theodore roosevelt	4.0 1
+dinner in honor of s a r monseigneur le comte trapani	2.0 1
+dinner in honor of s s packard s 70th bithday	6.0 1
+dinner in honor of the vice president of the united states and the visiting congressional committee	2.0 1
+dinner lunch	2.0 1
+dinner menu	3.0 8
+dinner of the fruit trade of new york city	12.0 1
+dinner on	2.0 1
+dinner on board	2.0 1
+dinner on funeral train of president mckinley	2.0 1
+dinner on last day	2.0 1
+dinner on special train for sec y of war elihu root and party	2.0 1
+dinner on the eve of his departure	2.0 1
+dinner on the eve of the wedding of princess josephine of belgium and prince carl von hohenzollern	2.0 1
+dinner or lunch	2.0 1
+dinner second cabin	2.0 16
+dinner to above	2.0 1
+dinner to albert stettheimer	8.0 1
+dinner to chilian officials	2.0 1
+dinner to count ferdinand de lessups	2.0 1
+dinner to diplomatic corps	4.0 1
+dinner to dr a conan doyle	3.0 1
+dinner to dr otto nordenskjold	4.0 1
+dinner to george c clark	2.0 1
+dinner to gov david b hill	4.0 1
+dinner to gov myron t herrick of ohio gov b b brook of wyoming	2.0 1
+dinner to her bridesmaids	4.0 1
+dinner to honourable john b mcpherson	20.0 1
+dinner to kaiser wilhelm and kaiserin auguste victoria of germany	2.0 1
+dinner to m warley platzek in honor of his election as a justice of the supreme court	8.0 1
+dinner to mr frank gannon	8.0 1
+dinner to president theodore roosevelt	2.0 1
+dinner to republican speakers	8.0 1
+dinner to robert t lincoln	8.0 1
+dinner to s t wellman	8.0 1
+dinner to secretary of state mrs root	2.0 1
+dinner to stick togethr club	8.0 1
+dinner to the delegates of the international marine conference	2.0 1
+dinner to the franklin dinner committee	4.0 1
+dinner to the president of the us the inland waterways commission	12.0 1
+dinner to the stick together club	8.0 1
+dinner tour of the pres to chicago the northwest	2.0 1
+dinner trip of president mc kinley to paterson for funeral of vice president hobart	2.0 1
+dinner vaudeville	4.0 1
+dinner ˆ la carte	4.0 3
+dinnwe	4.0 1
+directed by signor caioli luigi	4.0 1
+dnner	2.0 1
+drinks and snacks	8.0 1
+eighth anniversary banquet	8.0 1
+eighth annual dinner	4.0 2
+eleventh annual banquet	6.0 2
+en route to boston and return	2.0 1
+evening meal	2.0 2
+evening menu	5.0 1
+examination paper	4.0 1
+executive committee dinner	4.0 1
+express steamer furst bismarck dinner	4.0 1
+farewell dinner	4.0 1
+farewell dinner to maestro giacomo puccini on the occasion of his departure to europe	8.0 1
+farewell dinner to mr william clark	4.0 1
+farewell to old delmonico s	2.0 1
+fest bankett	2.0 1
+fifh annual dinner	8.0 1
+fifteenth annual dinner	2.0 1
+fifth annual dinner	4.0 1
+fifth annual dinner of the macdowell club of new york city	15.0 1
+fifth annual reunion	4.0 1
+first annual banquet	14.0 5
+first annual dinner	5.0 3
+first banquet	4.0 1
+formal opening of the new house	4.0 1
+fortieth anniversary and banquet	4.0 1
+forty fourth annual dinner	8.0 1
+forty third anniversary	4.0 1
+founder s dinner	2.0 1
+fourteenth burns anniversary	8.0 1
+fourth annual banquet	12.0 2
+fourth annual dinner	4.0 3
+fourth annusl dinner	4.0 1
+fourth dinner discussion	2.0 1
+fruhstuck	2.0 17
+fruhstuck a la carte	2.0 5
+fruhstuck breakfast	2.0 5
+fruhstuck lunch	2.0 6
+fruhstuck luncheon	2.0 10
+general grant s birthday	2.0 1
+glorification oa william henry jackson	4.0 1
+grand hotel men s banquet	2.0 1
+hauptmahlzeit	4.0 2
+hauptmahlzeit dinner	4.0 5
+hazel s pure food luncheon	12.0 1
+holiday dinner	8.0 1
+honoring james m barrie and w robertson nicoll	4.0 1
+inauguration day	4.0 1
+inernational yacht races	4.0 1
+informal dinner	2.0 1
+john e sturge directors dinner	2.0 1
+jubilee fete	4.0 1
+july fourth dinner	4.0 1
+king s birthday dinner	16.0 1
+ladies night	7.0 1
+launching of ferryboat richmond	4.0 1
+le petit souper	2.0 1
+lincheon	2.0 1
+lincoln s birthday dinner	8.0 1
+lumch and dinner	4.0 1
+lunch	2.0 390
+lunch a la carte	1.0 7
+lunch a la carte held by nordeutscher lloyd bremen at on board ss berlin	1.0 3
+lunch a la carte held by nordeutscher lloyd bremen at on board ss george washington	1.0 1
+lunch a la carte held by nordeutscher lloyd bremen at on board ss kaiser wilhelm der grosse	1.0 4
+lunch america s cup races	4.0 1
+lunch and dinner	1.0 2
+lunch and or dinner	2.0 1
+lunch at rowdy home for theodore roosevelt	2.0 1
+lunch dinner	4.0 6
+lunch for mrs thos brady daughter in remembrance of a very pleasant evening april 1890	4.0 1
+lunch menu	2.0 3
+lunch on tour of the president to the pacific coast	2.0 1
+lunch or dinner	4.0 3
+lunch or early dinner	2.0 1
+lunch presidential tour to the pacific coast	2.0 1
+lunch room	2.0 1
+lunch second cabin	2.0 8
+lunch speise karte	2.0 1
+lunch ˆ la carte	1.0 8
+luncheon	2.0 231
+luncheon and dinner	12.0 1
+luncheon for 120 guest	2.0 1
+luncheon for civil governmnt day	2.0 1
+luncheon for guests of minnesota iron company	2.0 1
+luncheon from 12 to 2 30 pm	2.0 1
+luncheon given aboard in vera cruz harbor in honor of visiting delegates to the convention of the american public health association in mexico city	2.0 1
+luncheon given by the irish fellowship club to william howard taft	3.0 1
+luncheon menu	2.0 2
+luncheon on funeral train of president mckinley	2.0 2
+luncheon pullman dining car service	2.0 1
+luncheon second cabin	2.0 9
+luncheon tendered to hon william jennings bryan	16.0 1
+luncheon to gentlemen who accompanied him on the first train through the belmont tunnel under the east river on opening day of irt	2.0 1
+luncheon to hotel men s mutual benefit association	6.0 1
+luncheon to state hotel association of pennsylvania	2.0 1
+luncheon tour of the pres to chicago the northwest	2.0 1
+luncheonette	3.0 1
+menu	2.0 18
+menu aboard ss barbarossa	4.0 1
+middag dinner	4.0 6
+midday dinner	2.0 12
+midday meal	2.0 6
+mitagessen	2.0 2
+mittag essen	2.0 1
+mittagesen	4.0 2
+mittagessen	2.0 17
+mittagessen dinner	2.0 7
+mittagesses	2.0 1
+new year s day dinner	2.0 1
+new year s day supper	2.0 1
+new year s dinner	2.0 1
+new year s eve gala dinner	1.0 1
+new years dinner	2.0 1
+nineteenth annual dinner	4.0 2
+ninth annual banquest and meeting	12.0 1
+ninth annual dinner	3.0 3
+ninth annual dinner of masters and past masters association	4.0 1
+ninth annual in honor of crow charlton	4.0 1
+ninth annual meeting and banquet	6.0 2
+no iv of five subscription cotillions	2.0 1
+norddeutscher lloyd bremen dinner	8.0 3
+norddeutscher lloyd bremen lunch and dinner menu	8.0 1
+norddeutscher lloyd bremen speise karte breakfast	4.0 1
+one hundred and third regular meeting	8.0 1
+opening banquet	2.0 1
+opening dinner	4.0 1
+opera supper	2.0 1
+paas festival	2.0 1
+pan american exposition	2.0 1
+personally conducted tour through mexico and calfiornia breakfast	2.0 1
+picnic	2.0 1
+pre theatre	5.0 1
+presentation of sword to capt a c braden	4.0 1
+presidential tour to the pacific coast	2.0 1
+private banquet	2.0 1
+private dinner	2.0 2
+probe bankett	2.0 1
+queen victoria s birthday	2.0 1
+quick luncheon and afternoon tea	4.0 1
+ramadhan snack menu	6.0 1
+reception and banquet	5.0 1
+reunion	33.0 1
+reunion and dinner	4.0 1
+reunion class of 1897	12.0 1
+room service	6.0 5
+room service luncheon	1.0 1
+royal hotel white horse rangoon whiskey menu	2.0 1
+saint nicholas day	2.0 1
+sandwich list	3.0 1
+schweinessen pig eating	2.0 1
+second anniversary dinner	5.0 2
+second annual banquet	8.0 1
+second annual dinner	2.0 1
+second annual reunion	4.0 1
+see above	2.0 1
+semi centennial of opening	20.0 1
+seventh annual banquet	4.0 1
+seventh annual banquet to the st louis traffic commission	18.0 1
+seventh annual dinner	12.0 1
+sixteenth annual convention luncheon	2.0 1
+sixteenth annual dinner	4.0 1
+sixth annual banquet	7.0 2
+sixth annual dinner	6.0 3
+souper	2.0 1
+souper intime	3.0 1
+souper salads	2.0 1
+souper sic	2.0 1
+special dewey lunch	2.0 1
+special lenten dishes	2.0 1
+special luncheon	2.0 1
+speise karte	1.0 5
+speise karte menu card	2.0 6
+speisenfolge	4.0 4
+spiszeddel	2.0 1
+spring dinner	4.0 1
+st valentines day dinner	4.0 1
+stiftungsfest	4.0 1
+sunday dinner	2.0 3
+sunday lunch	3.0 1
+sunday menu	4.0 1
+supper	2.0 63
+supper at the ball	4.0 1
+supper to james a herne	2.0 1
+table d hote de bon vivant	2.0 1
+table d hote dinner	2.0 3
+table d hote dinner from 12 30 to 2 30 5 30 to 8 p m	2.0 1
+table d hote lunch	2.0 1
+table d hote luncheon	2.0 1
+table d hote meal	2.0 1
+table d hote menu	2.0 1
+tea menu	4.0 1
+tenth annual dinner	4.0 1
+tenth burns annivesary	8.0 1
+testimonial banquet to hon charles welde	16.0 1
+testimonial dinner	4.0 1
+testimonial reception in honor of 25th anniversary of george f lyon in journalism	18.0 1
+testimonial to m e frederick e barnes past grand high priest	4.0 1
+thanksgiving day breakfast	2.0 1
+thanksgiving day dinner	2.0 1
+thanksgiving day menu program	4.0 1
+thanksgiving dinner	4.0 6
+the canterbury luncheon club	5.0 1
+the de lesseps dinner	2.0 1
+third annual banquet	4.0 2
+third annual dinner	6.0 2
+thirteenth annual dinner	4.0 1
+thirty first annual dinner	6.0 1
+tiffin	2.0 124
+to the captain officers of h n m ss van speijk	4.0 1
+tour of the president to the pacific coast breakfast	2.0 1
+tour of the president to the pacific coast dinner	2.0 1
+tour to buffalo dinner	2.0 1
+tour to buffalo luncheon	2.0 3
+trip to philadelphia and 244th regular dinner	20.0 1
+turkey dinner	2.0 1
+twelfth annual banquet	10.0 1
+twelfth annual reunion	16.0 1
+twentieth annual dinner	4.0 1
+twenty fifth annivesay o founding of club	2.0 1
+twenty first anniversary dinner	8.0 1
+twenty ninth annual dinner	8.0 1
+twenty seventh annual banquet of the loyal league	4.0 1
+twenty sixth annual reception	4.0 1
+twenty third annual dinner of the new york florist s club at the fifth avenue restaurant	4.0 1
+u s grant s birthday	2.0 1
+washingt0n s birthday	4.0 1
+washington s birthday banquet	4.0 1
+washington s birthday dinner	2.0 1
+wedding dinner	2.0 1
+wedding lunch	2.0 1
+wine list	5.0 8
