@@ -6,9 +6,7 @@ These projects are run on Linux EC2 instances built on AWS. Here are short descr
 ### HW1: Matrix Muliplication via MapReduce: realized by using Hadoop in Java and Spark in Python on AWS.
 It contains
 
-A Hadoop MapReduce program, TwoPhase.java, that computes the multiplication of two large-scale matrices using the two-phase approach (https://adhoop.wordpress.com/2012/03/28/matrix_multiplication_2_step/).
-A Spark MapReduce program, TwoPhase.py, that implements the same 2-phase approach in Spark.
-For more info and execution instructions, please see hw1.pdf insider the folder.
+
 
 ### HW2: Finding Frequent Itemsets over millions shopping baskets: realized by SON algorithm on Spark in Python on AWS.
 This project aims to discovered correlated items customers most likely to purchase together given big shopping basket dataset. It is implemented by SON Data Mining Algorithm via MapReduce with Spark on AWS, programming in Python. It calculates frequent item sets over millions of shopping basket records in just a few (<30) seconds.
